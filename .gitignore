@@ -1,0 +1,8 @@
+*
+!.gitignore
+!app_runner.py
+!environment.yml
+!input.csv
+!Dockerfile
+!.dockerignore
+!README.md
