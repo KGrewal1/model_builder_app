@@ -1,4 +1,4 @@
-# Solubility App
+# Model Builder App
 
 This app provides an interface for trzining models on the ChemProp[^1] [^2]. The input file needs a header row, and the first column to be the SMILES with the seconds column being the associated property.
 
